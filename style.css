@@ -14,6 +14,12 @@ padding: 10px;
 
 }
 
+section{
+border-image-width: auto;
+
+
+}
+
 div{
 background-color: black;
 color: white;
