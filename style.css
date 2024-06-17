@@ -39,3 +39,16 @@ justify-content: space-between;
     background-image: url(./Captura\ de\ tela\ 2024-06-17\ 104127.png);
     background-size: 100%;
 }
+
+
+
+.ggggfg{
+    width: 100%;
+}
+
+
+@media screen and (min-width: 1024px){
+    .ggggfg{
+        width: 50%;
+    }
+}
