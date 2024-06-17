@@ -1,4 +1,4 @@
-{
+*{
 margin: 0;
 padding: 0;
 
@@ -14,10 +14,8 @@ padding: 10px;
 
 }
 
-html{
+body{
     background-color:#394E21;
-    min-width: auto;
-    max-width: auto;
     
 }
 
@@ -35,4 +33,9 @@ color: white;
 align-items: center;
 display: flex;
 justify-content: space-between;
+}
+
+.fundo{
+    background-image: url(./Captura\ de\ tela\ 2024-06-17\ 104127.png);
+    background-size: 100%;
 }
