@@ -16,8 +16,8 @@ padding: 10px;
 
 html{
     background-color:#394E21;
-
-
+    min-width: auto;
+    max-width: auto;
 }
 
 div{
