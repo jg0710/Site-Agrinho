@@ -28,7 +28,9 @@ border-width: 5px;
 border-color: #F0F1DA;
 }
 
-section{
-
+footer{
+background-color: black;
+align-items: center;
+justify-content: space-between;
     
 }
