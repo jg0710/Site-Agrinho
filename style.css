@@ -32,6 +32,6 @@ footer{
 background-color: black;
 color: white;
 align-items: center;
-justify-content: space-between;
+display: flex;
     
 }
