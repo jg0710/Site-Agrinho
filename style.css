@@ -51,6 +51,6 @@ justify-content: space-between;
 @media screen and (min-width: 1350px){
     /* pc */
     .ggggfg{
-            width: fit-content;
+            width: 1350px;
     }
 }
