@@ -45,9 +45,9 @@ justify-content: space-between;
     }
 }
 
-@media screen and (min-width: 1800px){
+@media screen and (min-width: 1700px){
     /* pc */
     .ggggfg{
-        width: 1800px
+        width: 100%
     }
 }
