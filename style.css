@@ -3,7 +3,10 @@ margin: 0;
 padding: 0;
 
 }
+html{
+width: 1450px;
 
+}
 header{
 background-color: black;
 display: flex;
